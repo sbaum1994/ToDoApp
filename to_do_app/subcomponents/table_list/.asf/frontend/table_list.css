@@ -1,0 +1,18 @@
+[data-asf-component='com.RMS.ToDoApp.TableList@0.0.1'] {
+  padding: 10px;
+  background-color: #e0e4cc;
+}
+
+[data-asf-component='com.RMS.ToDoApp.TableList@0.0.1'] h2 {
+  display: inline;
+  padding: 5px;
+}
+
+[data-asf-component='com.RMS.ToDoApp.TableList@0.0.1'] ul {
+  list-style-type: none;
+  padding-left: 5px;
+}
+
+[data-asf-component='com.RMS.ToDoApp.TableList@0.0.1'] .items {
+  padding-left: none;
+}

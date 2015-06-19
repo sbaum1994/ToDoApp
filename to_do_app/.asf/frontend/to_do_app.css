@@ -1,0 +1,20 @@
+[data-asf-component='com.RMS.ToDoApp@0.0.1'] {
+  font-family: "Arial";
+}
+
+[data-asf-component='com.RMS.ToDoApp@0.0.1'] .mainapp {
+  color: #000;
+  background-color: #a7dbd8;
+  display: block;
+  padding: 20px;
+  padding-bottom: 10px;
+  width: 230px;
+  top: 10%;
+  left: 20%;
+  position: absolute;
+}
+
+[data-asf-component='com.RMS.ToDoApp@0.0.1'] h2 {
+  margin-top: 0px;
+  color: #000;
+}

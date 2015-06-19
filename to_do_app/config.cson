@@ -1,0 +1,5 @@
+name: "com.RMS.ToDoApp"
+version: "0.0.1"
+subcomponents:
+  tableList: "com.RMS.ToDoApp.TableList @ 0.0.1"
+  inputForm: "com.RMS.ToDoApp.InputForm @ 0.0.1"
